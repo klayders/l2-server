@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- 
+To activate the auto announcement, you must enable it in the /config/services.properties
+change ServiceAutoAnnounce = False on True
+-->
+<list>
+	<announce delay="600" repeat="6000" is_screen_message="false">
+		<message text="Welcome to the best server" />
+		<message text="Enjoy the game!" />
+	</announce>
+</list>

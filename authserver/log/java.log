@@ -1,0 +1,11 @@
+[12.10.19 04:25:09:310]  INFO authserver.Config: Loaded 127 server names
+[12.10.19 04:25:09:585]  INFO db.BaseDataConnectionFactory: DatabaseFactory: Database connection tested and working.
+[12.10.19 04:25:09:594]  INFO authserver.Config: Loaded whirlpool2 as default crypt.
+[12.10.19 04:25:10:743]  INFO authserver.Config: Cached 10 KeyPairs for RSA communication
+[12.10.19 04:25:11:297]  INFO authserver.Config: Stored 20 keys for Blowfish communication
+[12.10.19 04:25:11:321]  INFO authserver.GameServerManager: Loaded 1 registered GameServer(s).
+[12.10.19 04:25:11:321]  INFO authserver.GameServerManager: Loaded 0 proxy server(s).
+[12.10.19 04:25:11:353]  INFO authserver.AuthServer: Listening for gameservers on 127.0.0.1:9014
+[12.10.19 04:25:11:353]  INFO authserver.AuthServer: Listening for clients on *:2106
+[12.10.19 04:26:48:259]  INFO gs2as.AuthRequest: Trying to register gameserver: 1 [127.0.0.1]
+[12.10.19 04:26:48:271]  INFO gs2as.AuthRequest: Gameserver registration successful.

@@ -1,0 +1,2 @@
+Error: Could not find or load main class l2.gameserver.GameServer
+Caused by: java.lang.ClassNotFoundException: l2.gameserver.GameServer

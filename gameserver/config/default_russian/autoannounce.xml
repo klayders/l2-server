@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- 
+Для активации авто анонса необходимо его включить в /config/services.properties 
+изменив ServiceAutoAnnounce = False на True
+-->
+<list>
+	<announce delay="600" repeat="6000" is_screen_message="false">
+		<message text="Приветствуем на самом лучшем сервере" />
+		<message text="Желаем приятной игры" />
+	</announce>
+</list>

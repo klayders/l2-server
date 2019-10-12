@@ -1,0 +1,10 @@
+<!ELEMENT list (shortcut)*>
+<!ELEMENT shortcut (#PCDATA)>
+<!ATTLIST shortcut
+id CDATA #REQUIRED
+level CDATA #IMPLIED
+characterType CDATA #IMPLIED
+classId CDATA #IMPLIED
+page CDATA #REQUIRED
+slot CDATA #REQUIRED
+type CDATA #REQUIRED>
